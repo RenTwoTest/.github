@@ -1,6 +1,4 @@
-# Landing-page
-
-# Renesas Electronics on GitHub
+# Renesas Electronics
 
 Welcome to the official GitHub presence of Renesas Electronics.
 
