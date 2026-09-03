@@ -128,23 +128,4 @@ Need assistance?
 
 ---
 
-## Explore More
-
-### MCU Software
-Software resources for RA, RX, and RL78 microcontrollers.
-
-### MPU Software
-Linux-based software and development resources for RZ processors.
-
-### AI & Edge AI
-Machine learning, computer vision, and AI deployment resources.
-
-### Connectivity
-Networking, wireless, USB, cloud, and communication software.
-
-### Sensors
-Sensor frameworks, drivers, and reference applications.
-
----
-
 **Start building with Renesas.**
