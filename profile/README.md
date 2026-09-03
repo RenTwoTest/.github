@@ -8,50 +8,6 @@ Whether you are evaluating a device, starting a new design, exploring software e
 
 ---
 
-## Software Portfolio
-
-Renesas provides a broad software ecosystem spanning:
-
-### Microcontrollers (MCUs)
-- RA Family
-- RX Family
-- RL78 Family
-
-### Microprocessors (MPUs)
-- RZ Family
-
-### Software Platforms
-- Flexible Software Package (FSP)
-- Linux Board Support Packages (BSPs)
-- Middleware Components
-- RTOS Integrations
-
-### Connectivity
-- USB
-- Ethernet
-- Wi-Fi
-- Bluetooth® Low Energy
-- Matter
-
-### Security
-- Arm® TrustZone®
-- Secure Boot
-- MCUboot
-- Cryptography
-
-### AI & Machine Learning
-- Edge AI
-- Computer Vision
-- TinyML
-- AI Frameworks
-
-### Graphics & HMI
-- Display Solutions
-- Graphics Libraries
-- GUI Frameworks
-
----
-
 # Start Here
 
 Choose the software offer that best matches your development needs.
